@@ -1,3 +1,21 @@
 body {
-    background-color: aqua;
+    background-color:azure;
+    color: aquamarine;
+    font-family:font-family:Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    
+    font-size: 45px;
+}
+
+p,
+ul,
+ol {
+    color: black;
+    font-size: 18.5px;
 }
