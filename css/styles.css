@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:antiquewhite;
+}
+
+h1 {
+    background-color:aquamarine;
+    color:violet;
+    font-size: 100px;
+}
+
+ul {
+    background-color: pink;
+    color: palevioletred;
+    font-size: 20px;
+}
